@@ -1,0 +1,20 @@
+# These are like the special tools that Code Llama needs for its adventure.
+# Imagine it's like packing a backpack with everything you need for a trip!
+
+# CTransformers is like Code Llama's super-smart friend who helps with coding questions.
+CTransformers
+
+# Streamlit is like a magic wand that makes things look nice and interactive. It's like decorating a room.
+streamlit
+
+# Gradio is a magical talking tool that helps Code Llama have conversations with people. It's like a chat app.
+gradio
+
+# Langchain is like a treasure chest of tricks and spells that Code Llama uses to solve coding puzzles.
+langchain
+
+# FastAPI is like a speed booster that helps things happen quickly. It's like making a car go super fast!
+fastapi
+
+# Uvicorn is a behind-the-scenes helper that makes sure everything runs smoothly. It's like a backstage manager at a play.
+uvicorn
