@@ -1,4 +1,4 @@
-```markdown
+
 # Code Llama - Your Friendly Coding Assistant
 
 Code Llama is your friendly AI coding assistant. It's here to help you with coding problems and provide code snippets based on your questions. This repository contains the code for running Code Llama locally on your computer.
@@ -7,7 +7,6 @@ Code Llama is your friendly AI coding assistant. It's here to help you with codi
 
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Running Code Llama Locally](#running-code-llama-locally)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
@@ -15,17 +14,6 @@ Code Llama is your friendly AI coding assistant. It's here to help you with codi
 
 ## Getting Started
 
-### Prerequisites
-
-Before you can run Code Llama locally, make sure you have the following prerequisites:
-
-1. **Python**: You need Python installed on your computer. You can download it from [Python's official website](https://www.python.org/downloads/).
-
-2. **pip**: Pip is a package manager for Python. It usually comes with Python, so you should have it. You can check by running `pip --version` in your command prompt or terminal.
-
-## Running Code Llama Locally
-
-Here are the steps to run the code locally:
 
 ## How to Run Code Llama Locally
 
@@ -109,4 +97,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Llama 2 Meta AI](https://ai.meta.com/llama/)
 - [Code Llama Blog](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 - [CTransformers on GitHub](https://github.com/marella/ctransformers)
-```
